@@ -99200,7 +99200,7 @@ if(s.x.gP().lr())s.BB()},
 $S:0}
 A.Q8.prototype={
 T(a){var s=null,r=A.xC(s,s,"arab",B.oB,s)
-return new A.CU(A.aCs(B.Rp,B.bF),"Invoice Manager",r,s)}}
+return new A.CU(A.aCs(B.Rp,B.bF),"Tera App",r,s)}}
 A.SK.prototype={}
 A.ay2.prototype={
 $1(a){return!1},
